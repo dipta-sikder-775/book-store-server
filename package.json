@@ -17,7 +17,7 @@
     "src/**/*.ts": "npm run lint-prettier"
   },
   "keywords": [],
-  "author": "Kamrul Islam",
+  "author": "Dipta Sikder",
   "license": "ISC",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.405.0",
